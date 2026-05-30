@@ -4,7 +4,7 @@ import { FaLinkedin } from "react-icons/fa";
 import { AiFillGithub } from "react-icons/ai";
 import { FaInstagram } from "react-icons/fa6";
 import { FaFacebook } from "react-icons/fa";
-import resume from "./AbhishekPandey.pdf";
+import resume from "./manish nirmal fullstack.pdf";
 import img from "./Manish Nirmal.jpg";
 
 function About() {
